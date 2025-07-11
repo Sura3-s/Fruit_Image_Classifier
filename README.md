@@ -2,7 +2,7 @@
 ## Project Overview :
 This project uses a pre-trained image classification model created with **Teachable Machine**, then exported and tested using **TensorFlow** in Python.
 The goal is to classify images of fruits – specifically **apple** and **banana** – and display prediction results with confidence scores.
-## Project Files
+## Project Files :
 - `keras_model.h5` –> Trained model exported from Teachable Machine
 - `labels.txt` –> Class labels (Apple, Banana)
 - `model_predict_fruit.py` –> Python script to load model and predict
@@ -19,5 +19,5 @@ The goal is to classify images of fruits – specifically **apple** and **banana
    - Predict results for both images
    - Print confidence scores
    - Display the predicted images
-  ## Author:
+  ## Author :
   Made By: Sura Abdullah Alkhuzaim
