@@ -23,6 +23,6 @@ The goal is to classify images of fruits – specifically **apple** and **banana
 Make sure to install the correct versions of TensorFlow and Keras before running the script (especially in Google Colab):
 ```bash
 pip install tensorflow==2.15.0 keras==2.15.0
-
+```
 ## Author :
-  Made By: **Sura Abdullah Alkhuzaim**
+Made By: **Sura Abdullah Alkhuzaim**
