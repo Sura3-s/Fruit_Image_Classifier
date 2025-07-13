@@ -14,10 +14,15 @@ The goal is to classify images of fruits – specifically **apple** and **banana
 ## How to Run ?
 1. Open `model_predict_fruit.py` in Google Colab or local Python environment.
 2. Make sure all files are in the same directory or mounted in `/content/drive/MyDrive/converted_keras/`.
-3. Run the script.. It will:
-   - Load the model
-   - Predict results for both images
-   - Print confidence scores
-   - Display the predicted images
-  ## Author :
-  Made By: Sura Abdullah Alkhuzaim
+3. Run the script. It will:
+   - Load the model  
+   - Predict results for both images  
+   - Print prediction confidence  
+   - Display the predicted images with titles
+## Requirements :
+Make sure to install the correct versions of TensorFlow and Keras before running the script (especially in Google Colab):
+```bash
+pip install tensorflow==2.15.0 keras==2.15.0
+
+## Author :
+  Made By: **Sura Abdullah Alkhuzaim**
